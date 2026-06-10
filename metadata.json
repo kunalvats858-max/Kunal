@@ -1,0 +1,6 @@
+{
+  "name": "Conviction",
+  "description": "Unlock infinite discipline and stay fit with Conviction. Access an AI martial arts & self-improvement coach, log workouts (MMA, Boxing, Muay Thai etc.), scan foods for macro analyses, view your attribute growth polygon, track habits, and gain XP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
